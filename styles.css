@@ -1,0 +1,32 @@
+
+#label {
+    display: block;
+    padding: auto;
+    font-size: 7em;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#btnContainer {
+   text-align: center;
+   padding: 1.5em;
+}
+
+.btn {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    color: aliceblue;
+    background-color: rgb(77, 46, 46);
+    padding: 16px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+.btn:hover{
+    background-color: blanchedalmond;
+    color: rgb(77, 46, 46);
+
+}
